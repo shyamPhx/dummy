@@ -1,0 +1,29 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+}
+
+html{
+    font-size:62.5%;
+}
+
+
+.heading{
+    height:100vh;
+    display:flex;
+   
+    align-items: center;
+    justify-content: center;
+}
+
+.box-container{
+    background-color:rgb(35, 35, 68);
+}
+
+p{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
